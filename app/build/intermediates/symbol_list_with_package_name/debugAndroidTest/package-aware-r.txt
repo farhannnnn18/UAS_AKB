@@ -1,0 +1,3 @@
+com.example.uas_10120028.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
